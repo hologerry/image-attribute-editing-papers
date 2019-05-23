@@ -1,7 +1,10 @@
 # Attribute Editing papers
+
 A collection of attribute editing papers.
 
 This repository is inspired by [lzhbrian/image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers).
+
+![](img/stargan.jpg) (by StarGAN)
 
 Papers are ordered in arXiv first version submitting time.
 
