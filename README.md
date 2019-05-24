@@ -1,6 +1,6 @@
-# Attribute Editing papers
+# Image Attribute Editing papers
 
-A collection of attribute editing papers.
+A collection of image attribute editing papers.
 
 This repository is inspired by [lzhbrian/image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers).
 
@@ -11,15 +11,22 @@ Papers are ordered in arXiv first version submitting time.
 Feel free to send a PR or issue.
 
 ## Table of Content
-- [Attribute Editing papers](#attribute-editing-papers)
+- [Image Attribute Editing papers](#image-attribute-editing-papers)
   - [Table of Content](#table-of-content)
   - [General](#general)
+  - [Text Guided](#text-guided)
   - [Facial Attribute Editing](#facial-attribute-editing)
+  - [Fashion Attribute Editing](#fashion-attribute-editing)
 
 ## General
 |  Note  |   Model    | Paper   |   Conference | paper link | code link |
 | :-----:| :-------:| --------------|  :----: | :----: | :----: |
 | | DFI | Deep Feature Interpolation for Image Content Changes | CVPR 2017 | [1611.05507](https://arxiv.org/abs/1611.05507) | [paulu/deepfeatinterp](https://github.com/paulu/deepfeatinterp) |
+
+## Text Guided
+|  Note  |   Model    | Paper   |   Conference | paper link | code link |
+| :-----:| :-------:| --------------|  :----: | :----: | :----: |
+| | | Text Guided Person Image Synthesis | CVPR 2019 | [1904.05118](https://arxiv.org/abs/1904.05118) | []()
 
 ## Facial Attribute Editing
 
@@ -33,4 +40,12 @@ Feel free to send a PR or issue.
 | | StarGAN | StarGAN - Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation | CVPR 2018 | [1711.09020](https://arxiv.org/abs/1711.09020) | [yunjey/stargan](https://github.com/yunjey/stargan) | 
 | | Facelet Bank | Facelet-Bank for Fast Portrait Manipulation | CVPR 2018 | [1803.05576](https://arxiv.org/abs/1803.05576) | [yingcong/Facelet_Bank](yingcong/Facelet_Bank)
 | | SpatialAttentionGAN | Generative Adversarial Network with Spatial Attention for Face Attribute Editing | ECCV 2018 | [CVF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Gang_Zhang_Generative_Adversarial_Network_ECCV_2018_paper.pdf) | [elvisyjlin/SpatialAttentionGAN](https://github.com/elvisyjlin/SpatialAttentionGAN) |
+|   |   | Texture Deformation Based Generative Adversarial Networks for Face Editing | | [1812.09832](https://arxiv.org/abs/1812.09832) | |
 | | STGAN | STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing | CVPR 2019 | [1904.09709](http://arxiv.org/abs/1904.09709) | [csmliu/STGAN](https://github.com/csmliu/STGAN) |
+| | FaceShapeGene | FaceShapeGene: A Disentangled Shape Representation for Flexible Face Image Editing |  | [1905.01920](https://arxiv.org/abs/1905.01920) | |
+
+
+## Fashion Attribute Editing
+|  Note  |   Model    | Paper   |   Conference | paper link | code link |
+| :-----:| :-------:| --------------|  :---: | :---: | :---: |
+| dataset | Fashion-AttGAN | Fashion-AttGAN: Attribute-Aware Fashion Editing with Multi-Objective GAN | CVPR 2019 workshop | [1904.07460](https://arxiv.org/abs/1904.07460v2) | [ChanningPing/Fashion_Attribute_Editing](https://github.com/ChanningPing/Fashion_Attribute_Editing) |
