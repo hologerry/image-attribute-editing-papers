@@ -26,6 +26,7 @@ Feel free to send a PR or issue.
 |  Note  |   Model    | Paper   |   Conference | paper link | code link |
 | :-----:| :-------:| --------------|  :---: | :---: | :---: |
 |        |          | Deep Identity-aware Transfer of Facial Attributes |  | [1610.05586](https://arxiv.org/abs/1610.05586v2) |
+|  | IcGAN | Invertible Conditional GANs for image editing |  | [1611.06355](https://arxiv.org/abs/1611.06355v1) | [Guim3/IcGAN](https://github.com/Guim3/IcGAN)
 | |  | Learning Residual Images for Face Attribute Manipulation | CVPR 2017 | [1612.05363](https://arxiv.org/abs/1612.05363) | [MingtaoGuo/Learning-Residual-Images-for-Face-Attribute-Manipulation](https://github.com/MingtaoGuo/Learning-Residual-Images-for-Face-Attribute-Manipulation)
 | | Fader Networks | Fader Networks: Manipulating Images by Sliding Attributes | NIPS 2017 | [1706.004009](https://arxiv.org/abs/1706.00409) | [facebookresearch/FaderNetworks](https://github.com/facebookresearch/FaderNetworks)
 |        | AttGAN | AttGAN: Facial Attribute Editing by Only Changing What You Want |  | [1711.10678](https://arxiv.org/abs/1711.10678) | [LynnHo/AttGAN-Tensorflow](https://github.com/LynnHo/AttGAN-Tensorflow) [elvisyjlin/AttGAN-PyTorch](https://github.com/elvisyjlin/AttGAN-PyTorch)
