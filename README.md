@@ -14,21 +14,21 @@ Feel free to send a PR or issue.
 - [Image Attribute Editing papers](#image-attribute-editing-papers)
   - [Table of Content](#table-of-content)
   - [General](#general)
-  - [Text Guided](#text-guided)
-  - [Facial Attribute Editing](#facial-attribute-editing)
-  - [Fashion Attribute Editing](#fashion-attribute-editing)
+  - [Person](#person)
+  - [Facial](#facial)
+  - [Fashion](#fashion)
 
 ## General
 |  Note  |   Model    | Paper   |   Conference | paper link | code link |
 | :-----:| :-------:| --------------|  :----: | :----: | :----: |
 | | DFI | Deep Feature Interpolation for Image Content Changes | CVPR 2017 | [1611.05507](https://arxiv.org/abs/1611.05507) | [paulu/deepfeatinterp](https://github.com/paulu/deepfeatinterp) |
 
-## Text Guided
+## Person
 |  Note  |   Model    | Paper   |   Conference | paper link | code link |
 | :-----:| :-------:| --------------|  :----: | :----: | :----: |
 | | | Text Guided Person Image Synthesis | CVPR 2019 | [1904.05118](https://arxiv.org/abs/1904.05118) | []()
 
-## Facial Attribute Editing
+## Facial
 
 |  Note  |   Model    | Paper   |   Conference | paper link | code link |
 | :-----:| :-------:| --------------|  :---: | :---: | :---: |
@@ -45,7 +45,7 @@ Feel free to send a PR or issue.
 | | FaceShapeGene | FaceShapeGene: A Disentangled Shape Representation for Flexible Face Image Editing |  | [1905.01920](https://arxiv.org/abs/1905.01920) | |
 
 
-## Fashion Attribute Editing
+## Fashion
 |  Note  |   Model    | Paper   |   Conference | paper link | code link |
 | :-----:| :-------:| --------------|  :---: | :---: | :---: |
 | dataset | Fashion-AttGAN | Fashion-AttGAN: Attribute-Aware Fashion Editing with Multi-Objective GAN | CVPR 2019 workshop | [1904.07460](https://arxiv.org/abs/1904.07460v2) | [ChanningPing/Fashion_Attribute_Editing](https://github.com/ChanningPing/Fashion_Attribute_Editing) |
