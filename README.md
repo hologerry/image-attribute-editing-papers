@@ -40,9 +40,11 @@ Feel free to send a PR or issue.
 | | StarGAN | StarGAN - Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation | CVPR 2018 | [1711.09020](https://arxiv.org/abs/1711.09020) | [yunjey/stargan](https://github.com/yunjey/stargan) | 
 | | Facelet Bank | Facelet-Bank for Fast Portrait Manipulation | CVPR 2018 | [1803.05576](https://arxiv.org/abs/1803.05576) | [yingcong/Facelet_Bank](yingcong/Facelet_Bank)
 | | SpatialAttentionGAN | Generative Adversarial Network with Spatial Attention for Face Attribute Editing | ECCV 2018 | [CVF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Gang_Zhang_Generative_Adversarial_Network_ECCV_2018_paper.pdf) | [elvisyjlin/SpatialAttentionGAN](https://github.com/elvisyjlin/SpatialAttentionGAN) |
+| | | Attribute-aware Face Aging with Wavelet-based Generative Adversarial Networks | CVPR 2019 | [1809.06647](https://arxiv.org/pdf/1809.06647.pdf) | |
 |   |   | Texture Deformation Based Generative Adversarial Networks for Face Editing | | [1812.09832](https://arxiv.org/abs/1812.09832) | |
 | | STGAN | STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing | CVPR 2019 | [1904.09709](http://arxiv.org/abs/1904.09709) | [csmliu/STGAN](https://github.com/csmliu/STGAN) |
 | | FaceShapeGene | FaceShapeGene: A Disentangled Shape Representation for Flexible Face Image Editing |  | [1905.01920](https://arxiv.org/abs/1905.01920) | |
+| | SemanticComponent | Semantic Component Decomposition for Face Attribute Manipulation | CVPR 2019 | [CVF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Semantic_Component_Decomposition_for_Face_Attribute_Manipulation_CVPR_2019_paper.pdf) | [SemanticComponent](https://github.com/yingcong/SemanticComponent) |
 
 
 ## Fashion
